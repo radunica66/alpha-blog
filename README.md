@@ -1,4 +1,1 @@
-The front-end: Creating articles 
-
-- Route
-- Controller#action
+Updating articles functionality
