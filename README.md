@@ -1,1 +1,1 @@
-Homepage styling
+Homepage links
