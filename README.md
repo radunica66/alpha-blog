@@ -1,3 +1,1 @@
-Production Deploy
-
-Code refactoring
+Homepage styling
