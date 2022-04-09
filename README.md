@@ -1,1 +1,1 @@
-Style validation and flash messages
+Add show view styling
